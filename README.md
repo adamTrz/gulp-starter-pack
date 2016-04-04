@@ -5,3 +5,7 @@ Includes:
 - sass + css autoprefixer and minifier
 - js babel es2015 preset, js hint, js minifier
 - and browser-sync
+
+Run instruction:
+- say `$ npm install`
+- run `gulp` command
